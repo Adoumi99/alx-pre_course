@@ -6,3 +6,4 @@ git checkout
 git branch -m
 git --set-uptstream
 git push origin HEAD
+git pull
