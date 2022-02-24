@@ -1,0 +1,8 @@
+git add .
+git commit -m
+git push
+git branch
+git checkout
+git branch -m
+git --set-uptstream
+git push origin HEAD
